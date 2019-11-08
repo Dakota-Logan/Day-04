@@ -1,0 +1,50 @@
+body{
+	box-sizing: border-box;
+}
+
+/* Project-3 */
+.bg-top{
+	background: linear-gradient(0, rgba(61,136,187,1) 5%, rgba(68,159,213,1) 51%, rgba(146,218,255,1) 100%);
+	background-position: ;
+	height: 80vh;
+}
+.card{
+	border: none;
+	border-radius: unset;
+}
+#top-nav a, #button-row a{
+	color: white;
+	text-decoration-line: none;
+	text-shadow: 1px 1px 2px #999;
+}
+#top-nav a:hover, #button-row a:hover{
+	color: #ddd;
+}
+.top-btn{
+	background-color: #6aa2be;
+	width: 10vw;
+}
+#content-card{
+	width: 20vw;
+}
+.fa-comments, .fa-book-open, .fa-suitcase{
+}
+/* Project-2 */
+/* .bg-blue {
+	background: #3079AB;
+	color: white;
+}
+
+ .card-white {
+	background: white;
+	padding: 30px;
+	box-shadow: 1px 1px 2px #e7e7e7;
+	border-radius: 4px;
+	margin: 20px 50px;
+} */
+/* Project-1 */
+/*.bg-smily{
+	height: 15vh;
+	background-color: lightgray;
+	border: 2px white solid;
+} */
